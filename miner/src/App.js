@@ -1,7 +1,9 @@
-import './App.css';
+import Container from "./Pages/Container/Container";
+
+import "./App.css";
 
 function App() {
-  return <></>
+  return <Container />;
 }
 
 export default App;
